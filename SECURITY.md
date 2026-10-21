@@ -14,7 +14,6 @@ If you discover a security issue in this repository **do not open a public GitHu
 
 | Channel | Use it for |
 |---|---|
-| **Email**: [`security@libermall.com`](mailto:security@libermall.com) | Most reports. PGP key on request. |
 | **GitHub Security Advisory** | Private coordinated disclosure via the *Security* tab |
 | **Telegram** to [@LibermallIDbot](https://t.me/LibermallIDbot) → `/security` | Quick disclosure with screenshots |
 

@@ -12,7 +12,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - `botdata.php` now contains only `XXXXXXX` placeholders + `getenv()` fallbacks. The file is intentionally tracked so the file exists out of the box; replace values locally without committing them.
 - Added comprehensive `.gitignore` with explicit entries for `.env`, `*.key`, `*.pem`, `*.jks`, `*.keystore`, and runtime state files.
 - README rewritten in Tier-1 format with prominent security warning callout, architecture diagram, setup instructions and explicit "reference implementation, not production-grade" framing.
-- `SECURITY.md` now documents the disclosed leak, lists private disclosure channels (security@libermall.com, GitHub Security Advisory, @LibermallIDbot `/security`), defines scope and safe-harbor.
+- `SECURITY.md` now documents the disclosed leak, lists private disclosure channels (GitHub Security Advisory, @LibermallIDbot `/security`), defines scope and safe-harbor.
 
 ### Roadmap
 - This repository is now in **security-maintenance only** mode. Active development of the Libermall ecosystem has moved to [Libermall ID](https://id.libermall.com), [PayLibermall](https://pay.libermall.com), [Libermall Card](https://card.libermall.com), and [Libermall DEX](https://dex.libermall.com).
